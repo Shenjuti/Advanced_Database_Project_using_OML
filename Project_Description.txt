@@ -1,0 +1,22 @@
+Regarding the COVID Dataset
+-----------------------------
+The dataset has been collected from the Directorate General of Health Services, Bangladesh.
+The dataset has 626 rows and 4 columns.
+The dataset contains the number of COVID tests performed, number of persons tested positive and number of death cases for each day.
+
+Term Project
+-------------
+As a term project, you will build a Machine Learning Model of one of the following types.
+1. Regression Model
+2. Classification Model 
+3. Clustering Model
+4. Time-Series Forcasting Model 
+
+You must implement at least one algorithm of your chosen model using OML (Oracle Machine Learning). 
+Implementing multiple algorithms is definitely a plus and it would be also easier to compare the performances of different algorithms.
+
+At the end, you need to write a report based on the given template and need to present your work (12 minutes presentation). 
+During the presentation, your cam must be switched on and each member in a group must participate in the presentation. 
+Not participating/attending presentation would incur serious penalty. 
+
+The date and time of the presentation will be notified in due course.

@@ -1,0 +1,24 @@
+Oracle Machine Learning Interface Link:
+https://vqpjqdqllzv3krz-db202108112225.adb.ap-seoul-1.oraclecloudapps.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAAEFMUJZBVE2FODBDRFMHTB6HH72EXSUSSGJ7RLQMV6LDQNSVSSX7A&database=DB202108112225&redirect_uri=https://vqpjqdqllzv3krz-db202108112225.adb.ap-seoul-1.oraclecloudapps.com/omlusers/api/oauth2/v1/login&state=u77HybGT4pLzoSR3bHCoXQeAS7u7CidqnT93yNHhc3s=.6375871346427118231.1640061637387
+
+For Section 1
+User Name:
+S1G1
+S1G2
+and so on 
+
+Default Password:
+CSE464_ewu#001
+CSE464_ewu#002
+
+For Section 2
+User Name:
+S2G1
+S2G2
+and so on 
+
+Default Password:
+CSE464@2_ewu#001
+CSE464@2_ewu#002
+... ... ...
+CSE464@2_ewu#010
